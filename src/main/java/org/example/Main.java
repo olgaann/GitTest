@@ -5,5 +5,6 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Коммит1 на main ветке");
+        System.out.println("Коммит2 на main ветке");
     }
 }
